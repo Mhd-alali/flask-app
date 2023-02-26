@@ -1,0 +1,209 @@
+# .gif VALA
+# .webp VALA
+# .bpg VALA
+# .png VALA
+# .ogg VALA
+
+
+# .mp4 ViDEO
+# .avi ViDEO
+# .webm ViDEO
+# .flv ViDEO
+# .3gp ViDEO
+# .wmv ViDEO
+# .mov ViDEO
+# .vob ViDEO
+# .asf ViDEO
+# .avchd ViDEO
+# .divx ViDEO
+# .swf ViDEO
+# .h.264 ViDEO
+
+
+# .jpg Wene
+# .jpeg Wene
+# .helf Wene
+# .bmp Wene
+# .tiff Wene
+# .svg Wene
+# .raw Wene
+# .ico Wene
+# .psd Wene
+# .dds Wene
+# .jxr Wene
+# .tga Wene
+# .j2k Wene
+# .jp2 Wene
+# .pcx Wene
+# .pgm Wene
+# .pnm Wene
+# .ppm Wene
+# .dng Wene
+# .cr2 Wene
+# .crw Wene
+# .nef Wene
+# .nrw Wene
+# .orf Wene
+# .rw2 Wene
+# .pef Wene
+# .sr2 Wene
+# .raf Wene
+# .jpg Wene
+# .tif Wene
+# .ovr Wene
+# .fff Wene
+# .heic Wene
+
+
+# .mp3 Stran
+
+
+# .opus WatsappDeng
+
+
+# .wav DengenQeydkiri
+# .aiff DengenQeydkiri
+# .ape DengenQeydkiri
+# .alac DengenQeydkiri
+# .flac DengenQeydkiri
+# .m4a DengenQeydkiri
+# .wma DengenQeydkiri
+# .raw DengenQeydkiri
+# .pls DengenQeydkiri
+# .pcm DengenQeydkiri
+# .mkv DengenQeydkiri
+# .mpc DengenQeydkiri
+# .wave DengenQeydkiri
+# .amp DengenQeydkiri
+# .bitt DengenQeydkiri
+# .aac DengenQeydkiri
+
+
+# .txt Nivis
+# .docx Nivis
+# .xlsx Nivis
+# .pdf Nivis
+# .drm Nivis
+# .msg Nivis
+# .html Nivis
+# .cfg Nivis
+# .doc Nivis
+# .email Nivis
+# .rtf Nivis
+# .lrf Nivis
+# .fb2 Nivis
+# .epub Nivis
+# .mdb Nivis
+# .pub Nivis
+# .pptx Nivis
+# .xml Nivis
+# .srt Nivis
+# .sty Nivis
+# .text Nivis
+# .bib Nivis
+# .lst Nivis
+# .eml Nivis
+# .ascii Nivis
+# .sms Nivis
+# .tex Nivis
+# .psw Nivis
+# .sub Nivis
+# .wpt Nivis
+# .gpd Nivis
+# .ans Nivis
+# .err Nivis
+# .lis Nivis
+# .wpd Nivis
+# .me Nivis
+# .mnt Nivis
+# .rtx Nivis
+# .sdw Nivis
+# .stw Nivis
+# .ps Nivis
+
+
+#   .exe Pirogram
+#   .apk Pirogram
+#   .bs2 Pirogram
+#   .ps1 Pirogram
+#   .bash Pirogram
+#   .btm Pirogram
+#   .py Pirogram
+#   .vbs Pirogram
+#   .js Pirogram
+#   .ipa Pirogram
+#   .xap Pirogram
+#   .bat Pirogram
+
+
+#   .zip ZipRar
+#   .rar ZipRar
+#   .7z ZipRar
+#   .tar ZipRar
+#   .jar ZipRar
+#   .cbz ZipRar
+#   .cbr ZipRar
+#   .pkg ZipRar
+#   .rpm ZipRar
+#   .lzh ZipRar
+#   .iso ZipRar
+#   .dmg ZipRar
+#   .bin ZipRar
+#   .vcf ZipRar
+
+
+#   .asox internetURL
+#   .asp internetURL
+#   .cer internetURL
+#   .cfm internetURL
+#   .cgi internetURL
+#   .pl internetURL
+#   .css internetURL
+#   .rss internetURL
+#   .htm internetURL
+#   .jsp internetURL
+#   .part internetURL
+#   .php internetURL
+#   .xhtml internetURL
+#   .class internetURL
+#   .shtm internetURL
+#   .asp internetURL
+#   .cfm internetURL
+#   .cfml internetURL
+#   .php internetURL
+
+
+#   .kmz Xerite
+#   .mind Xerite
+#   .map Xerite
+#   .est Xerite
+#   .dat Xerite
+#   .preview Xerite
+#   .idx Xerite
+#   .wpt Xerite
+#   .db-shm Xerite
+#   .db-wal Xerite
+#   map_cache.db Xerite
+#   .gmap Xerite
+#   .kml Xerite
+#   .gpx Xerite
+#   .tab Xerite
+#   .ind Xerite
+#   .osm Xerite
+#   .dlg Xerite
+#   .vct Xerite
+#   .gml Xerite
+#   .geojson Xerite
+#   .shp Xerite
+#   .dbf Xerite
+#   .shx Xerite
+#   .pix Xerite
+#   .ecw Xerite
+#   .jp2 Xerite
+#   .gdb Xerite
+#   .mxd Xerite
+#   .3dd Xerite
+#   .mpk Xerite
+#   .imdf Xerite
+#   .avf Xerite
+#   .gis Xerite
